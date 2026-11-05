@@ -1,0 +1,12 @@
+<!-- PLACEHOLDER IMAGE — NOT A REAL PHOTOGRAPH. Replace with a real photo before launch. See PHOTOS.md. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img" aria-label="Placeholder image: Editorial image · 4 : 5">
+  <rect width="1000" height="1250" fill="#e7dfd2"/>
+  <circle cx="720" cy="375" r="110" fill="#c4b49a" opacity="0.45"/>
+  <rect x="0" y="775" width="1000" height="3" fill="#c4b49a" opacity="0.35"/>
+  <rect x="0" y="875" width="1000" height="2" fill="#c4b49a" opacity="0.25"/>
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="500" y="575" font-size="75" letter-spacing="6" fill="#6b5d4b">PLACEHOLDER</text>
+    <text x="500" y="675" font-size="42" fill="#7d6f5c">Editorial image · 4 : 5</text>
+    <text x="500" y="750" font-size="32" fill="#8d7f6c">Replace with a real photograph before launch</text>
+  </g>
+</svg>

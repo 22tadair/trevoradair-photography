@@ -1,0 +1,12 @@
+<!-- PLACEHOLDER IMAGE — NOT A REAL PHOTOGRAPH. Replace with a real photo before launch. See PHOTOS.md. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Placeholder image: Hero image · 16 : 9">
+  <rect width="1600" height="900" fill="#ede6da"/>
+  <circle cx="1152" cy="270" r="99" fill="#c9b79f" opacity="0.45"/>
+  <rect x="0" y="558" width="1600" height="3" fill="#c9b79f" opacity="0.35"/>
+  <rect x="0" y="630" width="1600" height="2" fill="#c9b79f" opacity="0.25"/>
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="800" y="414" font-size="67" letter-spacing="6" fill="#6b5d4b">PLACEHOLDER</text>
+    <text x="800" y="486" font-size="37" fill="#7d6f5c">Hero image · 16 : 9</text>
+    <text x="800" y="540" font-size="28" fill="#8d7f6c">Replace with a real photograph before launch</text>
+  </g>
+</svg>
