@@ -1,0 +1,6 @@
+# robots.txt — Trevor Adair Photography
+# TODO: planned domain trevoradairphotography.com is not yet purchased; point DNS before launch (see README.md).
+User-agent: *
+Allow: /
+
+Sitemap: https://trevoradairphotography.com/sitemap.xml
